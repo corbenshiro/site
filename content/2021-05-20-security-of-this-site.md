@@ -48,6 +48,6 @@ The OpenPGP-compliant system I personally recommend is GnuPG, if you have instal
 
 ## Audit
 
-If you're viewing the HTML5 version of my site, you can audit it via the Lighthouse tool that is bundled in Chromium-based browsers (I recommend ungoogled-chromium). Lighthouse supports testing with device emulation, i.e. to execute mobile mode on a desktop machine or vice versa.
+If you're viewing the HTML5 version of my site, you can audit it via the Lighthouse tool that is bundled in Chromium-based browsers (I recommend Chrome or a plain build of Chromium). Lighthouse supports testing with device emulation, i.e. to execute mobile mode on a desktop machine or vice versa.
 
 Use of Incognito mode or even better; a DisposableVM (if on Qubes OS) or Microsoft Defender Application Guard (if on Windows NT (Hyper-V is a prerequisite)) — is at your own discretion.
